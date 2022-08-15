@@ -14,8 +14,10 @@ and to see if the account can be recovered.
 and enter the opt from the email/website.
 No more wasting time going though each email to see if
 its recoverable. Now its automated.
+
 Showcase:
 https://streamable.com/ugbj5m
+
 https://streamable.com/un4nsg
 
 Features:
