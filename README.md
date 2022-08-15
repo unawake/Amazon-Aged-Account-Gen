@@ -1,13 +1,13 @@
-amazon aged account gen
-amazon-account
+### amazon aged account gen
 
-Paid Access at: 
+### Source code at 100 Stars
+
+# Paid Access at: 
 discord.gg/amazonhub or https://ceeazer.sellix.io/
 
-**Source code at 100 Stars** 
+## How It works:
 
-
- a program that scrapes emails from
+a program that scrapes emails from
 http://www.fakemailgenerator.com/
 And goes though each email to see
 if the email is registered on amazon
@@ -18,12 +18,12 @@ and enter the opt from the email/website.
 No more wasting time going though each email to see if
 its recoverable. Now its automated.
 
-Showcase:
+## Showcase:
 https://streamable.com/ugbj5m
 
 https://streamable.com/un4nsg
 
-Features:
+## Features:
 account is locked/ Phone number on it = Not recoverable
 Programs detects if the account has any phone
 number on it or if the account is locked.
