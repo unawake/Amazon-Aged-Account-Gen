@@ -4,6 +4,10 @@ discord.gg/amazonhub or https://ceeazer.sellix.io/
 
 **Source code at 100 Stars**
 
+@settings {
+  font-size: 100;
+}
+
  a program that scrapes emails from
 http://www.fakemailgenerator.com/
 And goes though each email to see
