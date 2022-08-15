@@ -1,4 +1,8 @@
 Amazon-Aged-Account-Gen
+Paid Access at: 
+discord.gg/amazonhub or https://ceeazer.sellix.io/
+
+Sourcecode at 100 Stars 
 
  a program that scrapes emails from
 http://www.fakemailgenerator.com/
