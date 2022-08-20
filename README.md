@@ -3,7 +3,7 @@
 ### Source code at 100 Stars
 
 ### Paid Access at: 
-discord.gg/amazonhub or https://ceeazer.sellix.io/
+.gg/amazonhub2 or https://ceeazer.sellix.io/
 
 ## How It works:
 
