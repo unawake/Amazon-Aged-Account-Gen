@@ -1,9 +1,11 @@
 # amazon aged account gen
 
-### Source code at 100 Stars
+### Source code at 25 Stars
 
 ### Paid Access at: 
-.gg/amazonhub2 or https://ceeazer.sellix.io/
+  ~~.gg/amazonhub2~~ (discord banned) or https://ceeazer.sellix.io/
+  
+```Support server:```  https://discord.gg/G3qqXJ6sbX 
 
 ## How It works:
 
