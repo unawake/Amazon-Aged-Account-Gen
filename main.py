@@ -1,1 +1,1 @@
-discord.gg/amazonhub
+https://discord.gg/G3qqXJ6sbX 
